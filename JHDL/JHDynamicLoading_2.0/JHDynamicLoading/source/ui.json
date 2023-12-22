@@ -1,0 +1,52 @@
+{
+    "views" : [
+        {
+            "type" : "UIView",
+            "tag" : "100",
+            "name" : "backView",
+            "superTag" : "0",
+            "frame" : "[w:200,h:160,l:30,t:20]",
+            "bgColor" : "ffddbb",
+            "cnRadius" : "15",
+            "bdColor" : "ff11ff",
+            "bdWidth" : "5",
+            "mtBounds" : "1"
+        },
+        {
+            "type" : "UILabel",
+            "tag" : "101",
+            "name" : "titleLabel",
+            "superTag" : "100",
+            "frame" : "[w:180,h:20,l:10,t:10]",
+            "text" : "这是一个标签",
+            "color" : "00aa00",
+            "font" : "b14",
+            "align" : "1",
+            "bgColor" : "cccccc",
+            "cnRadius" : "10",
+            "mtBounds" : "1"
+        },
+        {
+            "type" : "UIButton",
+            "tag" : "102",
+            "name" : "sureButton",
+            "superTag" : "100",
+            "frame" : "[w:100,h:60,x:101_x,t:101_b+10]",
+            "title" : "按钮",
+            "color" : "FFFFFF",
+            "font" : "20",
+            "bgColor" : "008800",
+            "cnRadius" : "10",
+        },
+        {
+            "type" : "UIImageView",
+            "tag" : "103",
+            "name" : "iconView",
+            "superTag" : "100",
+            "frame" : "[w:50,h:50,x:102_x,t:102_b+5]",
+            "image" : "",
+            "bgColor" : "dddddd",
+            "cnRadius" : "10",
+        }
+    ]
+}
