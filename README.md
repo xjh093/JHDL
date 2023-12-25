@@ -2,7 +2,7 @@
 iOS hot-reload
 
 # 实时预览
-![image](https://github.com/xjh093/JHDL/blob/main/%E6%88%AA%E5%B1%8F2023-12-22%2016.14.51.png)
+![image](https://github.com/xjh093/JHDL/blob/main/%E6%88%AA%E5%B1%8F2023-12-25%2014.24.21.png)
 
 ---
 
